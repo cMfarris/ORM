@@ -1,25 +1,28 @@
 # ORM - Backend e-commerce
 
-Description
+DESCRIPTION
 
 A mysql database application which is backend for e-commerce site. by building this i used MySQL, dontenv, and Sequlize.
 
-Installation 
+INSTALL:
 
 npm i
 npm install mysql
 npm install sequlize
 
 
-To Run
+TO RUN:
 npm start
 npm run seed 
 control C 
 mysql -u root -p
 
-Testing 
+
+TESTING:
 Showing a video on how to use on insomia 
 
-Contributers 
+
+CONTRIBUTERS:
+
 Celeste Farris 
 
